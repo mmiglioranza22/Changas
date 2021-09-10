@@ -10,12 +10,13 @@ Para eso creamos "Changas", donde cualquier persona que necesite de alguien para
 
 Querés saber más sobre este proyecto? Podés ingresar a las [FAQ](https://changas.vercel.app/faq) para enterarte!
 
-## Tecnologias que utilizamos
+## Stack utilizado
 
+- JavaScript
 - React
 - Redux
-- Node
-- Express
+- NodeJS
+- ExpressJS
 - PostgreSQL
 - Sequelize
 
