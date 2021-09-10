@@ -4,7 +4,7 @@
 Changas es un proyecto grupal, que sólo fue posible gracias al esfuerzo en conjunto de cada uno de sus integrantes.
 [Más sobre todos ellos, acá](https://changas.vercel.app/about)
 
-Nuestra idea fue la de hacer una plataforma que diera respuesta a un problema actual, exacervado por la pandemia de COVID-19: la necesidad de buscar un trabajo, cualquiera sea este.
+Nuestra idea fue hacer una plataforma que diera respuesta a un problema actual, exacervado por la pandemia de COVID-19: la necesidad de buscar un trabajo, cualquiera sea este.
 
 Para eso creamos "Changas", donde cualquier persona que necesite de alguien para un trabajo o “changa” va a poder encontrarla, y cualquier persona que quiera trabajar va poder ofrecer sus servicios.
 
