@@ -8,7 +8,7 @@ Nuestra idea fue hacer una plataforma que diera respuesta a un problema actual, 
 
 Para eso creamos "Changas", donde cualquier persona que necesite de alguien para un trabajo o “changa” va a poder encontrarla, y cualquier persona que quiera trabajar va poder ofrecer sus servicios.
 
-Querés saber más de qué va Changas? Podés ingresar a las [FAQ](https://changas.vercel.app/faq) para enterarte!
+Querés saber más sobre este proyecto? Podés ingresar a las [FAQ](https://changas.vercel.app/faq) para enterarte!
 
 ## Tecnologias que utilizamos
 
