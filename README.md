@@ -21,6 +21,6 @@ Para eso creamos "Changas", donde cualquier persona que necesite de alguien para
 
 Se implementaron metodologías ágiles (SCRUM) para poder llevar a cabo este proyecto.
 
-En este proyecto, me desenvolví como programador full-stack, focalizado mayormente en el back-end.
+En este proyecto, me desenvolví como *programador full-stack*, focalizado mayormente en el *back-end*.
 
 Espero que les guste!! Cualquier feedback de la app es bienvenido!!
