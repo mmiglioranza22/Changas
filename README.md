@@ -1,5 +1,7 @@
 # Changas 🦺👷🏻‍♀️👷🏻‍♂️ // [Link al sitio](https://changas.vercel.app/)
 
+*Nota 20/04/24: El link del sitio no funciona debido a los cambios en la política de free tier de Heroku*
+
 **Changas** es el resultado del proyecto final para el bootcamp de [Henry](https://www.soyhenry.com/).
 Changas es un proyecto grupal, que sólo fue posible gracias al esfuerzo en conjunto de cada uno de sus integrantes.
 [Más sobre todos ellos, acá](https://changas.vercel.app/about)
